@@ -72,7 +72,7 @@ const cn = {
     },
     Token: {
       Title: "API Key",
-      SubTitle: "使用自己的API Key 可绕过 访问码 限制。可在左下角购物车购买。",
+      SubTitle: "使用自己的API Key 可绕过 访问码 限制。左下角购物车购买。",
       Placeholder: "OpenAI API Key",
     },
     AccessCode: {
