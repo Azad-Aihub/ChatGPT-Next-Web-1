@@ -56,7 +56,7 @@ const cn = {
       CheckUpdate: "检查更新",
       IsChecking: "正在检查更新...",
       FoundUpdate: (x: string) => `发现新版本：${x}`,
-      GoToUpdate: "购买账号及API",
+      GoToUpdate: "加入站长星球获取更多福利",
       
     },
     SendKey: "发送键",
