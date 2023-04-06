@@ -57,6 +57,10 @@ const en: LocaleType = {
     Update: {
       Version: (x: string) => `Version: ${x}`,
       IsLatest: "Latest version",
+      CheckUpdate: "检查更新",
+      IsChecking: "正在检查更新...",
+      FoundUpdate: (x: string) => `发现新版本：${x}`,
+      GoToUpdate: "前往更新",
      
     },
     SendKey: "Send Key",
