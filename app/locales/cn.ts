@@ -89,10 +89,6 @@ const cn = {
       Title: "话题新鲜度 (presence_penalty)",
       SubTitle: "值越大，越有可能扩展到新话题",
     },
-    Zhishixingqiu: {
-      Title: "点击加入<a href="https://t.zsxq.com/0cy1WzxXu" target="_blank">知识星球</a>",
-      SubTitle: "获取ChatGPT独享账号，免梯子使用星主搭建并持续更新的ChatGPT项目以及其他福利",
-    },
   },
   Store: {
     DefaultTopic: "新的聊天",
